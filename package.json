@@ -1,0 +1,16 @@
+{
+  "name": "Cheque2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://segovger.github.io/Koriyama",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
